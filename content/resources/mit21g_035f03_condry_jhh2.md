@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 950a7581-35a0-7974-cd83-ba46478e1339
 resourcetype: Document
 title: Introduction
 uid: b3aeff66-3537-1276-96ab-681b3b8bc3f4
