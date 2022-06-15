@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on writing assignments, short weekly
+  assignments, and student presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
