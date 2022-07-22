@@ -5,6 +5,7 @@ file: /courses/21g-035-topics-in-culture-and-globalization-fall-2003/b3aeff66353
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction
 uid: b3aeff66-3537-1276-96ab-681b3b8bc3f4
 ---
 This resource contains information regarding Japanese Hip-Hop.
-
