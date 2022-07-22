@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on writing assignments, short weekly
+  assignments, and student presentations.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0975977d-5a9a-93ac-03d3-5a0c3655d4ee
 ---

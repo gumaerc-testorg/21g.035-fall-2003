@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, topics, requirements, course dynamics, assignments, class participation,
+  student presentations, and special class meetings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b6316ff9-f6a6-b352-c92a-2a0e5f513742
 ---
@@ -70,7 +75,7 @@ Essay 2 (5 pages) - Global Hip-Hop
 15%
 {{< tdclose >}}
 {{< tdopen >}}
-Week 8<
+Week 8\<
 {{< tdclose >}}
 
 {{< trclose >}}
