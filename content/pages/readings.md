@@ -160,11 +160,11 @@ Film in Class: Black, S. *Life and Debt.* (About Sweatshops in Jamaica.)
 Jenkins, Henry. "Quentin Tarantino's Star Wars? Digital Cinema, Media Convergence, and Participatory Culture." In *Rethinking Media Change: The Aesthetics of Transition.* Cambridge, MA: MIT Press, 2003.
 
 Vaidhyanathan, Siva. "The Anarchist in the Library." 2002.   
-An introduction to his argument about the cultural politics of P2P networks. ([View cybercast](http://www.loc.gov/rr/program/lectures/vaidhyanathan.html) of U.S. Library of Congress Luminary Lecuter by Dr. Vaidhyanathan on this article.)
+An introduction to his argument about the cultural politics of P2P networks. ({{% resource_link "14693c85-ae15-4810-87c9-d976a8fdaf8f" "View cybercast" %}} of U.S. Library of Congress Luminary Lecuter by Dr. Vaidhyanathan on this article.)
 
 Condry. "The Digital Revolution in Music." (Forthcoming)
 
-Selections from [Billboard Magazine](http://www.billboard.com/) (Trade Magazine for Record Co.s)
+Selections from {{% resource_link "661f49c4-3d1d-4aa3-bfc6-2b7694be17e6" "Billboard Magazine" %}} (Trade Magazine for Record Co.s)
 
 Film: Excerpts from *Sonic Outlaws.*
 
